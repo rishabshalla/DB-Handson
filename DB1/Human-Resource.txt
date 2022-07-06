@@ -6,7 +6,7 @@ local      0.000GB
 reliance   0.000GB
 > use Human-Resource
 switched to db Human-Resource
-> db.employee.insertMany([{
+> db.employee.insertMany([{ 
 ...   "firstName": "John",
 ...   "lastName": "Doe",
 ...   "salary": "25000",
